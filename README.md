@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Md. Mohtasim Billah Zim! 👋</h1>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/1*1-qThLZr4SdLZKYlMpDiIA.png" width="100%" alt="Cover Photo" />
+  <img src="github_profile_banner.png" width="100%" alt="Cover Photo" />
 </p>
 
 <p align="center">
@@ -106,3 +106,4 @@ I am a passionate and detail-oriented **Full Stack Developer (MERN)** and an act
   <a href="mailto:mdmohtasimbillahzim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://mohtasim-billah-zim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-003399?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
+<img width="1024" height="1024" alt="github_profile_banner" src="https://github.com/user-attachments/assets/b8ffebc5-8b7c-464b-b914-97e7f19511c4" />
