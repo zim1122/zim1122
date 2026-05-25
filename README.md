@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Md. Mohtasim Billah Zim! 👋</h1>
 
 <p align="center">
-  <img src="github_profile_banner.png" width="100%" alt="Cover Photo" />
+  <img src="github_profile_banner.png" height="150" alt="Cover Photo" />
 </p>
 
 <p align="center">
