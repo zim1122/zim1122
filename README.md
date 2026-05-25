@@ -1,7 +1,8 @@
+
 <h1 align="center">Hello World, I'm Md. Mohtasim Billah Zim! 👋</h1>
 
 <p align="center">
-  <img src="./github_profile_banner.png" height="150" alt="Cover Photo" />
+  <img width="842" height="436" alt="Screenshot 2026-05-25 152744" src="https://github.com/user-attachments/assets/d2f1e87f-c88d-4037-9b63-cfc77b1b1078" />
 </p>
 
 <p align="center">
