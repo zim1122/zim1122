@@ -1,8 +1,7 @@
-
 <h1 align="center">Hello World, I'm Md. Mohtasim Billah Zim! 👋</h1>
 
 <p align="center">
-  <img width="842" height="436" alt="Screenshot 2026-05-25 152744" src="https://github.com/user-attachments/assets/d2f1e87f-c88d-4037-9b63-cfc77b1b1078" />
+  <img src="./github_profile_banner.png" height="150" alt="Cover Photo" />
 </p>
 
 <p align="center">
@@ -81,17 +80,26 @@ I am a passionate and detail-oriented **Full Stack Developer (MERN)** and an act
 
 ---
 
-### 📊 GitHub & Competitive Programming Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/zim1122">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zim1122&show_icons=true&theme=nord&count_private=true" alt="Zim's GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/zim1122">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zim1122&layout=compact&theme=nord" alt="Zim's Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=zim1122&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/zim1122">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zim1122&theme=radical" alt="GitHub Profile Details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zim1122">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zim1122&theme=radical" alt="Top Languages by Repo" />
+  </a>
+</p>
+
 
 #### 🏆 Programming Contests Achievements
 - **Codeforces**: Pupil rank (Max Rating: 1200+), solved **500+ problems**.
